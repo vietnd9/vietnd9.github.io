@@ -1,0 +1,153 @@
+.version.index /* version checker */
+{
+	color: #0000FF;
+	background-color: #0ABD2D;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 105px 805px 395px 155px;
+}
+
+#slideshowu188
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 0px;
+	position: relative;
+}
+
+#u202
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u202popup
+{
+	z-index: 3;
+}
+
+#u207
+{
+	z-index: 4;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u203
+{
+	z-index: 6;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u205
+{
+	z-index: 8;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u197-4
+{
+	width: 25px;
+	min-height: 20px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+}
+
+#u197-4popup
+{
+	z-index: 10;
+}
+
+#u213-4
+{
+	width: 25px;
+	min-height: 20px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	line-height: 20px;
+	color: #999999;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: fixed;
+	top: 0px;
+	left: 56px;
+}
+
+#u213-4popup
+{
+	z-index: 14;
+}
+
+#u211-4
+{
+	width: 81px;
+	min-height: 20px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	padding: 15px;
+	text-align: center;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: fixed;
+	top: 51px;
+	left: 0px;
+}
+
+#u211-4popup
+{
+	z-index: 18;
+}
+
+#u197,#u211
+{
+	color: #999999;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
