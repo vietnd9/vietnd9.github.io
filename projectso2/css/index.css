@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #0ABD2D;
+	color: #000009;
+	background-color: #0A1021;
 }
 
 #page
@@ -45,7 +45,7 @@
 	background-color: transparent;
 }
 
-#u203
+#u335
 {
 	z-index: 6;
 	border-width: 0px;
@@ -53,9 +53,41 @@
 	background-color: transparent;
 }
 
-#u205
+#u355
 {
 	z-index: 8;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u375
+{
+	z-index: 10;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u395
+{
+	z-index: 12;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u415
+{
+	z-index: 14;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u435
+{
+	z-index: 16;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -79,7 +111,7 @@
 
 #u197-4popup
 {
-	z-index: 10;
+	z-index: 18;
 }
 
 #u213-4
@@ -101,7 +133,7 @@
 
 #u213-4popup
 {
-	z-index: 14;
+	z-index: 22;
 }
 
 #u211-4
@@ -122,7 +154,7 @@
 
 #u211-4popup
 {
-	z-index: 18;
+	z-index: 26;
 }
 
 #u197,#u211
